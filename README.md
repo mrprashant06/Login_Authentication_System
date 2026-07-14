@@ -1,4 +1,5 @@
-# Login Authentication System
+
+3# Login Authentication System
 
 ![.NET](https://img.shields.io/badge/.NET-9.0-512BD4)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Web%20API-2F9E6D)
@@ -96,11 +97,11 @@ Push instructions are here:
 
 This project demonstrates practical full-stack .NET skills:
 
-- API design
-- Authentication flow
-- Database connectivity
-- Form validation
-- Responsive UI
-- Clean project organization
+- API design.
+- Authentication flow.
+- Database connectivity.
+- Form validation.
+- Responsive UI.
+- Clean project organization.
 
 For production, move the JWT key out of `appsettings.json` and store it in user secrets, environment variables, or a secure vault.
